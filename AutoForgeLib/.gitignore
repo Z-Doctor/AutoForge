@@ -1,0 +1,13 @@
+/.gradle/
+/bin/
+/saves/
+/world/
+/resourcepacks/
+/mods/
+/logs/
+/crashreports/
+/config/
+/build/
+*.json
+*.txt
+/server.properties
